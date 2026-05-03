@@ -1,8 +1,6 @@
 ---
 name: github-trending
-version: 1.0.0
 description: 每日 GitHub Trending 热榜推送，支持日榜和月度汇总
-author: 爱好摸鱼真君 & 千绘璃
 license: MIT
 ---
 
